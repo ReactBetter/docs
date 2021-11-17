@@ -7,7 +7,7 @@ Thankfully, most of the tools in our trade are available for free. Here are exte
 Your IDE (Integrated Development Environment) is the app you'll use to write your code. There are several great options. For React, we prefer VS Code.
 
 - [Download VS Code](https://code.visualstudio.com/download)
-- - VS Code is free and available on all major platforms, including Linux. It has an extensive library of easy-to-use extensions, a built-in terminal, and live sharing capabilities.
+    - VS Code is free and available on all major platforms, including Linux. It has an extensive library of easy-to-use extensions, a built-in terminal, and live sharing capabilities.
 - [Download Sublime](https://www.sublimetext.com/download)
 
 ## Required CLI Tools (Download All)
