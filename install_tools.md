@@ -15,12 +15,12 @@ Your IDE (Integrated Development Environment) is the app you'll use to write you
 In addition to an IDE, you'll need an environment where your code can run. These tools will get you there.
 
 - [Download Homebrew (Mac Only)](https://brew.sh/)
-- - Mac users will find installing apps significantly easier with Homebrew. We highly recommend getting it.
+    - Mac users will find installing apps significantly easier with Homebrew. We highly recommend getting it.
 - [Download Git](https://github.com/git-guides/install-git)
 - We prefer to use NVM to install both Node and NPM; this will allow you to easily switch which version of Node you are using at any time.
-- - [NVM on Linux](https://www.tecmint.com/nvm-install-multiple-nodejs-versions-in-linux/)
-- - [NVM on Mac](https://tecadmin.net/install-nvm-macos-with-homebrew/)
-- - [NVM on Windows](https://dev.to/skaytech/how-to-install-node-version-manager-nvm-for-windows-10-4nbi)
+    - [NVM on Linux](https://www.tecmint.com/nvm-install-multiple-nodejs-versions-in-linux/)
+    - [NVM on Mac](https://tecadmin.net/install-nvm-macos-with-homebrew/)
+    - [NVM on Windows](https://dev.to/skaytech/how-to-install-node-version-manager-nvm-for-windows-10-4nbi)
 
 ## Terminals (Download One)
 
@@ -32,7 +32,7 @@ Our preferences actually depend on our operating system for this.
 Mac users have an amazing option known as iTerm2! It's incredible. Download it, add ZSH, and enjoy. Your default terminal works, but iTerm2 is (in our opinion) the top of the terminal food chain.
 
 - [Download iTerm2 With ZSH & Oh-My-ZSH](https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c)
-- - What's this? An all-in-one guide for iTerm2 with ZSH! This guide will help you get iTerm2, add ZSH, and customize it with oh-my-zsh.
+    - What's this? An all-in-one guide for iTerm2 with ZSH! This guide will help you get iTerm2, add ZSH, and customize it with oh-my-zsh.
 
 ### Linux
 The default terminal in Linux is wonderful. We still like adding some ZSH flavor.
