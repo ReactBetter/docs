@@ -6,17 +6,17 @@ Thankfully, most of the tools in our trade are available for free. Here are exte
 
 Your IDE (Integrated Development Environment) is the app you'll use to write your code. There are several great options. For React, we prefer VS Code.
 
-- [VS Code](https://code.visualstudio.com/download)
+- [Download VS Code](https://code.visualstudio.com/download)
 - - VS Code is free and available on all major platforms, including Linux. It has an extensive library of easy-to-use extensions, a built-in terminal, and live sharing capabilities.
-- [Sublime](https://www.sublimetext.com/download)
+- [Download Sublime](https://www.sublimetext.com/download)
 
 ## Required CLI Tools (Download All)
 
 In addition to an IDE, you'll need an environment where your code can run. These tools will get you there.
 
-- [Homebrew (Mac Only)](https://brew.sh/)
+- [Download Homebrew (Mac Only)](https://brew.sh/)
 - - Mac users will find installing apps significantly easier with Homebrew. We highly recommend getting it.
-- [Git](https://github.com/git-guides/install-git)
+- [Download Git](https://github.com/git-guides/install-git)
 - We prefer to use NVM to install both Node and NPM; this will allow you to easily switch which version of Node you are using at any time.
 - - [NVM on Linux](https://www.tecmint.com/nvm-install-multiple-nodejs-versions-in-linux/)
 - - [NVM on Mac](https://tecadmin.net/install-nvm-macos-with-homebrew/)
@@ -31,7 +31,7 @@ Our preferences actually depend on our operating system for this.
 ### Mac
 Mac users have an amazing option known as iTerm2! It's incredible. Download it, add ZSH, and enjoy. Your default terminal works, but iTerm2 is (in our opinion) the top of the terminal food chain.
 
-- [iTerm2 With ZSH & Oh-My-ZSH](https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c)
+- [Download iTerm2 With ZSH & Oh-My-ZSH](https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c)
 - - What's this? An all-in-one guide for iTerm2 with ZSH! This guide will help you get iTerm2, add ZSH, and customize it with oh-my-zsh.
 
 ### Linux
